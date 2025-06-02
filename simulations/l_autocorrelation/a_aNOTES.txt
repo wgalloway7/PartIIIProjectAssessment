@@ -1,0 +1,1 @@
+Done 95:3,7,9. Seemed to get stuck on 21 - not using all 20 cores??

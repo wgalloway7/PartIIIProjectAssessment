@@ -1,0 +1,51 @@
+Starting simulation at 2025-05-24T06:57:32.905
+Lattice size: 95
+Beta values: [0.25, 0.25757124579110297, 0.2653717866335231, 0.2734085667240293, 0.28168874056427257, 0.2902196793298659, 0.29900897743235194, 0.3080644592798988, 0.3173941862427442, 0.3270064638295879, 0.3369098490813209, 0.3471131581886732, 0.357625474340563, 0.36845615581013186, 0.3796148442856656, 0.39111147345381786, 0.40295627784277505, 0.4151598019332376, 0.42773290954532633, 0.44068679350977147]
+Equilibration steps: 1000
+Measurement steps: 5000
+Max lag: 1000
+Copies: 20
+Move type: l chain flip
+l = 63
+L = 95
+----------------------------------
+Current copy: 1
+Current copy: 9
+Current copy: 12
+Current copy: 18
+Current copy: 19
+Current copy: 16
+Current copy: 17
+Current copy: 14
+Current copy: 6
+Current copy: 4
+Current copy: 20
+Current copy: 3
+Current copy: 11
+Current copy: 7
+Current copy: 5
+Current copy: 15
+Current copy: 13
+Current copy: 2
+Current copy: 8
+Current copy: 10
+Finished at time 2025-05-25T12:04:34.401
+Finished at time 2025-05-25T15:27:19.838
+Finished at time 2025-05-25T15:57:03.132
+Finished at time 2025-05-25T16:17:55.395
+Finished at time 2025-05-25T16:18:11.982
+Finished at time 2025-05-25T16:20:10.289
+Finished at time 2025-05-25T16:22:00.422
+Finished at time 2025-05-25T16:22:10.598
+Finished at time 2025-05-25T16:22:26.609
+Finished at time 2025-05-25T16:22:38.927
+Finished at time 2025-05-25T16:22:43.425
+Finished at time 2025-05-25T16:22:59.565
+Finished at time 2025-05-25T16:23:01.894
+Finished at time 2025-05-25T16:23:02.422
+Finished at time 2025-05-25T16:23:04.568
+Finished at time 2025-05-25T16:23:09.304
+Finished at time 2025-05-25T16:23:30.989
+Finished at time 2025-05-25T16:23:38.090
+Finished at time 2025-05-25T16:24:11.965
+Finished at time 2025-05-25T16:24:22.946
